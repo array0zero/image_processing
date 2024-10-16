@@ -1,9 +1,10 @@
 import tkinter as tk
 from tkinter import filedialog
-from PIL import Image, ImageTk
+
 import cv2
 import matplotlib.pyplot as plt
 import numpy as np
+from PIL import Image, ImageTk
 
 
 class Processing:
